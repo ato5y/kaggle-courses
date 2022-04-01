@@ -1,2 +1,2 @@
 # kaggle-courses
-![Screenshot](Ahmed I. El-toukhy - Pandas.png)
+![Screenshot](Ahmed-I-El-toukhy-Pandas.png)
